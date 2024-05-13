@@ -20,7 +20,6 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 - [hyperledger/cacti](https://github.com/hyperledger/cacti/wiki)
 - [facebook/react-native](https://github.com/facebook/react-native/wiki)
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome/wiki)
-- [golang/go](https://github.com/golang/go/wiki)
 - [uber/NullAway](https://github.com/uber/NullAway/wiki)
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary/wiki)
 
@@ -56,6 +55,7 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 - [Effortless export from GitHub Wiki](https://stackoverflow.com/questions/18759738/effortless-export-from-github-wiki)
 - [ToC or Sidebar in GitHub Wiki](https://stackoverflow.com/questions/9239588/toc-or-sidebar-in-github-wiki)
 - [GitHub Wiki doesn't support HTML tables anymore?](https://stackoverflow.com/questions/45657579/github-wiki-doesnt-support-html-tables-anymore)
+- [How to style a JSON block in GitHub Wiki?](https://stackoverflow.com/questions/14901245/how-to-style-a-json-block-in-github-wiki)
 
 ## Contributing
 Contributions are very welcome! Please read the [contribution guideline](contributing.md) first.
